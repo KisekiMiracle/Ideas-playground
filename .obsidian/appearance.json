@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#e60063",
+  "cssTheme": "Border",
+  "showRibbon": true,
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Inter"
+}

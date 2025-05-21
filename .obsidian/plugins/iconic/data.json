@@ -1,0 +1,93 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "on",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showItemName": "off",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 90,
+  "colorPicker1": "rgb",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Characters/Sylvia Havenglow.md": {
+      "icon": "lucide-stars",
+      "color": "red"
+    },
+    "Home.md": {
+      "icon": "lucide-home"
+    },
+    "Planification.md": {
+      "icon": "lucide-kanban-square"
+    },
+    "Story and Plot": {
+      "icon": "lucide-folder-open",
+      "unsynced": [
+        "7f939863c3170634"
+      ]
+    },
+    "Story and Plot/Ideas": {
+      "icon": "lucide-lightbulb",
+      "unsynced": [
+        "7f939863c3170634"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {
+    "characters": {
+      "icon": "lucide-user-round-pen"
+    },
+    "main": {
+      "icon": "lucide-stars"
+    },
+    "character": {
+      "icon": "lucide-user-pen",
+      "color": "cyan"
+    },
+    "main_cast": {
+      "icon": "lucide-sparkles",
+      "color": "yellow"
+    },
+    "profile": {
+      "icon": "lucide-notebook"
+    }
+  },
+  "propertyIcons": {
+    "aliases": {
+      "icon": "lucide-book-a"
+    },
+    "tags": {
+      "icon": "lucide-tag",
+      "color": "blue"
+    }
+  },
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "M1IjY",
+      "name": "Untitled rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ],
+  "folderRules": []
+}
