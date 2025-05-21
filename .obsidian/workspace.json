@@ -214,15 +214,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false,
-      "iconic:Open rulebook": false
+      "iconic:Open rulebook": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "6429d0c380ac1943",
+  "active": "809626fa1d678dfc",
   "lastOpenFiles": [
     "README.md",
     "Characters/Sylvia Havenglow.md",
