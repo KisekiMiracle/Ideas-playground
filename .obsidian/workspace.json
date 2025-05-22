@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Sylvia Havenglow.md",
-                "mode": "preview",
+                "file": "Home.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sylvia Havenglow"
+              "title": "Home"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Sylvia Havenglow.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylvia Havenglow"
+              "title": "Outline of Home"
             }
           },
           {
@@ -264,8 +264,48 @@
       "flowershow:Publish with Flowershow": false
     }
   },
+  "floating": {
+    "id": "84f43d09c4bec06c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a9fe2413cc2a5f77",
+        "type": "window",
+        "children": [
+          {
+            "id": "1bc474fceb3a0c17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2201e4f049b14d8",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/settings/tokens",
+                    "title": "Personal Access Tokens (Classic)",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Personal Access Tokens (Classic)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2209,
+        "y": 137,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "53ff19e553fd83aa",
   "lastOpenFiles": [
+    "README.md",
     "Characters/Sylvia Havenglow.md",
     "Character Cheatsheets.md",
     "Characters/Tamber Aria.md",
@@ -278,7 +318,6 @@
     "Story and Plot/Ideas/Untitled.md",
     "Planification.md",
     "Home.md",
-    "README.md",
     "2025-05-21.md",
     "Characters/Ellie Cromwell.md",
     "Characters/Marina Reina.md",
