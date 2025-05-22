@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "README"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of README"
             }
           },
           {
@@ -305,6 +305,7 @@
   },
   "active": "53ff19e553fd83aa",
   "lastOpenFiles": [
+    "Home.md",
     "README.md",
     "Characters/Sylvia Havenglow.md",
     "Character Cheatsheets.md",
@@ -317,7 +318,6 @@
     "Test.mdx.md",
     "Story and Plot/Ideas/Untitled.md",
     "Planification.md",
-    "Home.md",
     "2025-05-21.md",
     "Characters/Ellie Cromwell.md",
     "Characters/Marina Reina.md",
