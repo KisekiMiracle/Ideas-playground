@@ -1,7 +1,6 @@
 [
   "github-sync",
   "omnisearch",
-  "recent-files-obsidian",
   "homepage",
   "obsidian-style-settings",
   "obsidian-list-callouts",
@@ -16,5 +15,6 @@
   "obsidian-icon-folder",
   "obsidian-plugin-update-tracker",
   "obsidian-linter",
-  "frontmatter-modified-date"
+  "frontmatter-modified-date",
+  "flowershow"
 ]

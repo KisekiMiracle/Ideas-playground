@@ -1,0 +1,9 @@
+/*
+hr {
+  height: 1.35px!important;
+  background-color: oklch(87% 0 0)!important;
+}
+*/
+blockquote[dir*="auto"] {
+  border-left: .25em solid oklch(59.2% 0.249 0.584)!important;
+}

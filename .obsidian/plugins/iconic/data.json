@@ -22,9 +22,12 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Character Cheatsheets.md": {
+      "icon": "lucide-book-user"
+    },
     "Characters/Sylvia Havenglow.md": {
       "icon": "lucide-stars",
-      "color": "red"
+      "color": "#ef4e9b"
     },
     "Home.md": {
       "icon": "lucide-home"
@@ -55,7 +58,7 @@
     },
     "character": {
       "icon": "lucide-user-pen",
-      "color": "cyan"
+      "color": "#f075a6"
     },
     "main_cast": {
       "icon": "lucide-sparkles",
@@ -72,6 +75,9 @@
     "tags": {
       "icon": "lucide-tag",
       "color": "blue"
+    },
+    "weapon": {
+      "icon": "lucide-swords"
     }
   },
   "ribbonIcons": {},

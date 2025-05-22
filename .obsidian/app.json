@@ -1,9 +1,21 @@
 {
   "alwaysUpdateLinks": true,
   "focusNewTab": true,
-  "livePreview": true,
+  "livePreview": false,
   "readableLineLength": true,
   "showLineNumber": false,
   "showIndentGuide": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "defaultViewMode": "source",
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldIndent": false
 }

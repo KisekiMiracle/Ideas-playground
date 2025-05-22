@@ -1,9 +1,13 @@
 {
-  "theme": "obsidian",
-  "accentColor": "#e60063",
-  "cssTheme": "Border",
+  "theme": "moonstone",
+  "accentColor": "#6461ff",
+  "cssTheme": "Gitsidian",
   "showRibbon": true,
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "hr"
+  ]
 }
