@@ -1,0 +1,25 @@
+/*
+hr {
+  height: 1.35px!important;
+  background-color: oklch(87% 0 0)!important;
+}
+*/
+blockquote[dir*="auto"] {
+  border-left: 0.25em solid oklch(59.2% 0.249 0.584) !important;
+}
+::details-content {
+  transition: height 0.5s ease, content-visibility 0.5s ease allow-discrete;
+  height: 0;
+  overflow: clip;
+}
+
+/* Browser supports interpolate-size */
+@supports (interpolate-size: allow-keywords) {
+  :root {
+    interpolate-size: allow-keywords;
+  }
+
+  [open]::details-content {
+    height: auto;
+  }
+}

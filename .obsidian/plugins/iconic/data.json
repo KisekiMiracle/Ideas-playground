@@ -22,18 +22,22 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Character Cheatsheets.md": {
-      "icon": "lucide-book-user"
+    "Characters/Marina Reina.md": {
+      "icon": "lucide-stars",
+      "color": "#ef4e9b"
     },
     "Characters/Sylvia Havenglow.md": {
       "icon": "lucide-stars",
       "color": "#ef4e9b"
     },
-    "Home.md": {
-      "icon": "lucide-home"
+    "Ideas": {
+      "icon": "lucide-lightbulb",
+      "unsynced": [
+        "7f939863c3170634"
+      ]
     },
-    "Planification.md": {
-      "icon": "lucide-kanban-square"
+    "README.md": {
+      "icon": "homepage"
     },
     "Story and Plot": {
       "icon": "lucide-folder-open",
@@ -41,11 +45,11 @@
         "7f939863c3170634"
       ]
     },
-    "Story and Plot/Ideas": {
-      "icon": "lucide-lightbulb",
-      "unsynced": [
-        "7f939863c3170634"
-      ]
+    "__contents__/Character Cheatsheets.md": {
+      "icon": "lucide-book-user"
+    },
+    "__templates__/Character Template.md": {
+      "icon": "lucide-file-box"
     }
   },
   "bookmarkIcons": {},
@@ -66,6 +70,10 @@
     },
     "profile": {
       "icon": "lucide-notebook"
+    },
+    "lore": {
+      "icon": "lucide-book-open-text",
+      "color": "#ba5de5"
     }
   },
   "propertyIcons": {

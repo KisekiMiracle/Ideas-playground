@@ -1,9 +1,15 @@
 ---
 created at: 2025-05-20
-tags: []
-modified: 2025-05-22T01:59:35-05:00
+tags: [lore]
+modified: 2025-05-23T01:15:11-05:00
 ---
-[[Planification]]
+## What Do I want to Talk About?
+:FarLightbulb: **The importance of Friendship**: how your friends are truly an integral part of your life.
+:FarLightbulb: **Camaraderie**: following the hardships—and emerging triumphant—of bonding with your team members, who may not be your friends to begin with.
+
+## Themes
+> What is the truth that I want to scream from the rooftop?
 
 ## Characters
-[[Sylvia Havenglow]]
+:LiCrosshair: [[Sylvia Havenglow]]
+:LiBrush: [[Marina Reina]]

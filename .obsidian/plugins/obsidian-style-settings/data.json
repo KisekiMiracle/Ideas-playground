@@ -18,7 +18,7 @@
   "ITS@@folder-open@@light": "#615FFF",
   "cupertino@@active-line-off": true,
   "cupertino@@center-tabs-off": true,
-  "cupertino@@hide-frontmatter-off": false,
+  "cupertino@@hide-frontmatter-off": true,
   "cupertino@@mode-highlight-off": false,
   "cupertino@@compact-mode": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
@@ -125,5 +125,14 @@
   "Appearance-light@@shadow-activated-tab-header-light": "none",
   "primary-theme@@normal-highlight-color@@light": "#9688E5",
   "red-graphite@@red-graphite-interface-font": "'Inter'",
-  "red-graphite@@red-graphite-text-font": "'Inter'"
+  "red-graphite@@red-graphite-text-font": "'Inter'",
+  "minimal-style@@ax1@@light": "#2B7FFF",
+  "minimal-style@@ax2@@light": "#3F8DFF",
+  "minimal-style@@ax3@@light": "#4F39F6",
+  "minimal-style@@color-red@@light": "#EC003F",
+  "minimal-style@@blockquote-border-color@@light": "#EC003F",
+  "minimal-style@@ax1@@dark": "#8EC5FF",
+  "minimal-style@@color-red@@dark": "#FB64B6",
+  "cupertino@@clean-link-off": true,
+  "cupertino@@windows-mode-off": false
 }
