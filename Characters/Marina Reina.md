@@ -9,7 +9,7 @@ aliases:
 weapon:
   - Brunhilda
 share_link: https://share.note.sx/i92hkzv9#95M43glOBdY3FZeyu1EJPkJwiIiJlDseTomFxIzqIJw
-modified: 2025-05-23T17:20:19-05:00
+modified: 2025-05-23T17:22:11-05:00
 share_updated: 2025-05-23T17:22:01-05:00
 ---
 ## Introduction
