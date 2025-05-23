@@ -90,7 +90,8 @@
               "title": "Marina Reina"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,7 +259,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "53b49b17cfa11eea",
+  "active": "016da2adcd49e2dd",
   "lastOpenFiles": [
     "__contents__/Character Cheatsheets.md",
     "README.md",
