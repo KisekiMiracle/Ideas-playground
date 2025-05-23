@@ -1,8 +1,7 @@
 ---
 created at: 2025-05-20
-tags:
-  - lore
-modified: 2025-05-23T17:35:20-05:00
+tags: [lore]
+modified: 2025-05-23T17:38:09-05:00
 ---
 ## What Do I want to Talk About?
 :FarLightbulb: **The importance of Friendship**: how your friends are truly an integral part of your life.
@@ -14,8 +13,4 @@ a random change.
 
 ## Characters
 :LiCrosshair: [[Sylvia Havenglow]]
-<<<<<<< HEAD
 :LiBrush: [[Marina Reina]]
-=======
-:LiBrush: [[Marina Reina]]
->>>>>>> ec95d78d97bdf284fe99f12903f3d9936bce25cd
