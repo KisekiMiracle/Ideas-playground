@@ -1,7 +1,8 @@
 ---
 created at: 2025-05-20
-tags: [lore]
-modified: 2025-05-23T01:15:11-05:00
+tags:
+  - lore
+modified: 2025-05-23T17:35:20-05:00
 ---
 ## What Do I want to Talk About?
 :FarLightbulb: **The importance of Friendship**: how your friends are truly an integral part of your life.
