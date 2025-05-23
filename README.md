@@ -14,4 +14,8 @@ a random change.
 
 ## Characters
 :LiCrosshair: [[Sylvia Havenglow]]
+<<<<<<< HEAD
 :LiBrush: [[Marina Reina]]
+=======
+:LiBrush: [[Marina Reina]]
+>>>>>>> ec95d78d97bdf284fe99f12903f3d9936bce25cd
