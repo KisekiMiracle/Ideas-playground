@@ -1,11 +1,7 @@
 ---
-tags:
-  - character
-  - profile
-  - main_cast
+tags: [character, profile, main_cast]
 created at: 2025-05-23T00:00:00
-aliases:
-  - The Muse
+aliases: [The Muse]
 weapon:
   - Brunhilda
 share_link: https://share.note.sx/i92hkzv9#95M43glOBdY3FZeyu1EJPkJwiIiJlDseTomFxIzqIJw
