@@ -1,9 +1,0 @@
----
-created at: 2025-05-20
-tags: []
-modified: 2025-05-22T02:08:24-05:00
----
-[[Planification]]
-
-## Characters
-[[Sylvia Havenglow]]
